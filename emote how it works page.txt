@@ -1,0 +1,128 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Your Awesome Webpage</title>
+  </head>
+  <body>
+    <div style="font-family: sans-serif;">
+      <img src="http://inspirationengine.com/wp-content/uploads/2011/01/input-final.png" alt="" title="input final" width="600" style="margin: auto;" />
+      <hr style="4px inset whitesmoke;" width="500px">
+      <h1 style="color: #483D8B; font-family: cursive; font-weight: normal;">Getting started with e.mote<sup style="font-size: 40%">®</sup> is easy as 1-2-3!</h1>
+      <h3 style="color: #483D8B;">Get an e.mote<sup style="font-size: 60%">®</sup> account ...and start getting feedback</h3>
+      <ol>
+        <li>Sign up for an e.mote<sup style="font-size: 60%">®</sup> account (be sure to provide a valid email address so you can access your admin dashboard and scorecards!).</li>
+        <li>Use the creation wizard to walk through building your first e.mote<sup style="font-size: 60%">®</sup>.</li>
+        <li>Now, use the e.mote<sup style="font-size: 60%">®</sup> QR Codes, links, &amp; buttons to start capturing feedback!</li>
+      </ol>
+      <div style="
+width: 150px;
+height: 36px;
+margin-left: 18px;
+text-align: center;
+background-image: linear-gradient(bottom, rgb(230,165,0) 10%, rgb(255,207,51) 28%, rgb(255,237,122) 79%);
+background-image: -o-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -moz-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -webkit-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -ms-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+border: .15em outset gold; 
+border-radius: 10px;">
+  <a href="http://emote.inspirationengine.com/register" target="_blank" style="text-decoration: none;"><span style="font-family: cursive; font-size: 18pt; font-type: bold; color: black; text-shadow: white 2px 3px 10px;">Get Started</span></a>
+      </div>
+      <br>
+      <hr style="4px inset whitesmoke;" width="500px" > 
+      &nbsp;
+      <br>
+      <div style="
+width: 650px; 
+height: 60px; 
+padding-left: 15pt;
+padding-bottom: 10pt;
+background-image: linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -o-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -moz-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -webkit-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -ms-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+border: .15em outset gold; 
+border-radius: 10px;">
+  <span style="font-family: Segoe UI; font-size: 36pt; color: white; text-shadow: darkgoldenrod 5px 5px 10px; ">capture.</span>
+</div>	
+      
+      <h3 style="color: #483D8B; font-weight: normal;">Use e.mote<sup style="font-size: 60%">®</sup> to capture feedback anywhere people interact with you. Capture feedback using:</h3> 
+      <ul>
+        <li>QR Codes</li>
+        <li>Badges and buttons</li>
+        <li>A web link to your e.mote<sup style="font-size: 60%">®</sup></li>
+    </ul>
+      <img style="float: left; margin-bottom: 35px;" title="table tent 2" src="http://inspirationengine.com/wp-content/uploads/2011/01/table-tent-2.png" alt="e.mote qr card" height="295" />
+      <img style="position: absolute; margin-left: 375px; margin-bottom: 200px;" title="qr and badge transparent" src="http://inspirationengine.com/wp-content/uploads/2011/01/qr-and-badge-transparent.png" alt="" height="99" />
+      <img style="position: absolute; margin-left: 385px; margin-top: 110px; border-left: 0px inset white; border-top: .1em inset white; border-right: 2px outset silver; border-bottom: 2px outset silver;" title="emote" src="http://inspirationengine.com/wp-content/uploads/2011/01/emote.png" alt="" height="158" />
+      
+      <hr style="clear: both; 4px inset whitesmoke;" width="500px"> 
+    &nbsp;
+      <br>
+      <div style="
+width: 650px; 
+height: 60px; 
+padding-left: 15pt;
+padding-bottom: 10pt;
+background-image: linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -o-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -moz-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -webkit-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -ms-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+border: .15em outset gold; 
+border-radius: 10px;">
+  <span style="font-family: Segoe UI; font-size: 36pt; color: white; text-shadow: darkgoldenrod 5px 5px 10px; ">predict.</span>
+</div>	
+      
+      <div style="background-color: lightgrey; border: 2px outset grey; border-radius: 10px; float: right; margin-left: 475px; margin-top: 80px; padding-left: 20px; padding-right: 10px; padding-top: 0px; padding-bottom: 10px; ">
+      <span style="font-size: small;">
+        <p>Research done by Gallup Consulting<sup style="font-size: 60%">®</sup> has shown a powerful link between engagement and key business outcomes.</p>
+        <ul>
+          <li>Fully engaged customers represent an average <span style="color: green; font-weight: 600;">23% increase</span> in market share, profitability, revenue, and relationship growth versus the average customer. </li>
+          <li>In stark contrast, actively disengaged customers represent a <span style="color: red; font-weight: 600;">13% decrease</span> in those same areas.</li>
+      	</ul>
+      	<p>Businesses that reach a minimum of 8 enthusiasts for every one detractor and maintain this "golden ratio" are reaping significant benefits.</p> 
+		<ul>
+          <li>Organizations with highly-engaged customers <span style="color: green; font-weight: 600;">outperform their competition by an average of 26% in gross margin and 85% in sales growth.</span></li>
+          <li>Organizations with highly-engaged employees <span style="color: green; font-weight: 600;">average 6% higher net profit margins.</span></li>
+          </ul>
+        </span>
+     </div>
+      <div style="float: left; position: absolute; clear: both; margin-right: 450px; padding-top: 25px;" >
+      <h3 style="color: #483D8B;">Know Your Engagement Ratio</h3>  
+      <p>Organizations that sustain a ratio of 8 enthusiasts to every 1 detractor — be they employees or customers — are reaping great benefits.</p>
+      <p>e.mote<sup style="font-size: 60%">®</sup> provides an at-a-glance indication of how close you are to this golden ratio by displaying each level of engagement in comparison to the others. </p>
+        <p>In addition, the e.mote<sup style="font-size: 60%">®</sup> scorecard displays a spectrum of the emotions people are expressing and how often. </p>
+        <p>Finally, the e.mote<sup style="font-size: 60%">®</sup> scorecard gives you the “why” behind each emotion and engagement level in the Comments. Like a compass, the verbatim collected from your respondents helps you continually improve your engagement ratio.</p></div>
+        <h4 style="color: #483d8b;">Dig a little deeper…</h4> 
+        <p>Click on any feeling in spectrum of emotions or a segment of the engagement pie graph to filter the comments and see what’s triggering their feelings, or use the search field to find keywords and specific phrases.</p>
+
+&nbsp;
+<br>      
+<br>
+      <hr style="clear: all; 4px inset whitesmoke;" width="500px"> 
+    &nbsp;
+      <br>
+      
+      <div style="
+width: 650px; 
+height: 60px; 
+padding-left: 15pt;
+padding-bottom: 10pt;
+background-image: linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -o-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -moz-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -webkit-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+background-image: -ms-linear-gradient(bottom, rgb(230,165,0) 15%, rgb(255,207,51) 58%, rgb(255,237,122) 79%);
+border: .15em outset gold; 
+border-radius: 10px;">
+  <span style="font-family: Segoe UI; font-size: 36pt; color: white; text-shadow: darkgoldenrod 5px 5px 10px; ">act.</span>
+</div>	
+      
+      
+
+      <p><strong><a href="http://inspirationengine.com/?page_id=189"><img class="alignnone size-full wp-image-774" title="arrow4" src="http://inspirationengine.com/wp-content/uploads/2011/01/arrow43.jpg" alt="" width="19" height="38" /> See e.mote<sup style="font-size: 60%">®</sup> Pricing</a></strong></p>
+    </div>
+  </body>
+</html>

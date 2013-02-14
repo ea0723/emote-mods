@@ -1,0 +1,19 @@
+app/views/surveys/new.html.erb
+<div id="content-win-create">
+  
+    <div id="create-survey">
+        <div class="big-text">Create an e.mote&reg; </div>
+        <div class="instruction">In the space below, complete the statement "Tell us how you felt about...". Broader questions allow people to respond with more feedback - they'll tell you what matters to them. Some examples are: "our staff" "your visit" "the seminar".  
+</div>
+<%= form_for @survey, :as => :survey, :url => account_surveys_path, :html => {:method => :post} do |f| %>
+<div id="preview-win">
+<div id="preview-text">Tell us how you felt about <br/>
+<%= f.text_field :project_name, :id => 'emote-subject', :class => 'defaultText', :default_text => '[ENTER SUBJECT HERE]' %>
+</div>
+        </div>
+<%= errors_for(@survey) %>
+        <div id="publish-button"><%= image_submit_tag("create_button.png") %> <%= link_to 'Cancel', account_surveys_path %></div>
+        <% end %>
+    </div>
+
+</div>

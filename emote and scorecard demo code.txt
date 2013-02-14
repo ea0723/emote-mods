@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+	<title>e.mote demo</title>
+</head>
+<body>
+<h1>e.mote demo - test</h1>
+
+Try an e.mote<sup>®</sup> then see the results.
+
+<div id='emote-this-button'></div>
+<script type='text/javascript'>emote_uid = 'MOBILE';emote_link_content = "<img src='http://inspirationengine.com/wp-content/uploads/2011/03/emote-badge.png' height='100 px' border='0' align='left' />";var jsHost = (('https:' == document.location.protocol) ? 'https://ssl.' : 'http://');document.write(unescape('%3Cscript src="' + jsHost + 'emotethis.com/js/emote.js" type="text/javascript"%3E%3C/script%3E'));</script> <a onclick="window.open('http://emote.inspirationengine.com/scorecard/Q09X6B','scorecard','resizable=yes,width=1050,height=840,left='+(screen.availWidth/2-590.5)+',top=0');return false;" href="#"><img src="http://inspirationengine.com/wp-content/uploads/2012/03/Scorecard_horizontal_3d_Trans.png" title="e.mote Scorecard" alt="e.mote Scorecard" height="125 px" align="right"/></a></p>
+
+
+<div id='emote-this-button'></div><script type='text/javascript'>emote_uid = 'EMOTE';emote_link_content = "<img class='alignleft' title='feedback' style='margin-left: 5px; margin-right: 5px;' src='http://inspirationengine.com/wp-content/uploads/2011/02/emote-badge-36x35.png' border='0' alt='feedback'/>";var jsHost = (('https:' == document.location.protocol) ? 'https://ssl.' : 'http://');document.write(unescape('%3Cscript src="' + jsHost + 'emotethis.com/js/emote.js" type="text/javascript"%3E%3C/script%3E'));</script>
+
+</body>
+<HTML>
